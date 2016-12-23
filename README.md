@@ -1,6 +1,6 @@
 # Тестовое задание на должность Full Stack Engineer
 
-[![recruitment.png](https://s16.postimg.org/7ah7u7mdh/recruitment.png)](https://postimg.org/image/kems6wef5/)
+[![recruitment.png](https://s23.postimg.org/nnxuhaosr/recruitment01.png)]
 
 ## Задание
 
