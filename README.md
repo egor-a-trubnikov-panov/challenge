@@ -26,11 +26,17 @@ You need to create graph editing and pathfinding web-based application.
 ## Requirements
 
 The only programming language is JavaScript.
+
 Application source code must be published on one of public source code hosting.
+
 The application must be deployed to a cloud.
+
 There must be a _README.md_ with instructions how to configure and run it.
+
 You free to use tools and frameworks of your choice.
+
 Quality is preferable to the count of features.
+
 All kind of automation including QA is a huge advantage.
 
 Good luck!
